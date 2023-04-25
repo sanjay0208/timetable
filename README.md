@@ -1,3 +1,4 @@
+![slot time table](https://user-images.githubusercontent.com/119406959/234223989-118026ab-d22d-4525-8205-095af14c8872.png)
 ~~~
 <!DOCTYPE html>
 <html lang="en">
@@ -93,3 +94,4 @@
 </body>
 </html>
 ~~~
+![slot time table](https://user-images.githubusercontent.com/119406959/234224198-5e2434c2-f102-41c5-a686-62163724e7eb.png)
